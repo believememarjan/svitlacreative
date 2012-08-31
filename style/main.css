@@ -1,0 +1,57 @@
+@charset "UTF-8";
+/* CSS Document */
+/* Quatolia 2012 */
+
+html {	
+	/*info - http://css-tricks.com/perfect-full-page-background-image/ */
+        background: url(http://quatolia.com/img/p1.png) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+
+body {padding:0px; margin:0px; height:100%; background-color:#fff; /*display:none;*/}
+
+a { font-style:normal; text-decoration:none; color:#fff;}
+
+.text { font-style:normal; color:#C36; font-family:DPix_8pt; font-size:8px; text-shadow: black 1px 1px 1px; text-align:center;}
+
+#container_alphabox { width:100%; height:100%; border:none; position:absolute; bottom: 0px; left: 0px;} 
+
+#container_content { width:100%; height:100%; border:none; position:absolute; bottom: 0px; left: 0px;} 
+
+#boxc { width:20%; height:100%; float:left; border:none; } 
+
+#boxi1 { width:100%; height:100%; float:left; border:none; background-color:#000; } 
+#boxi2 { width:100%; height:100%; float:left; border:none; background-color:#000; } 
+#boxi3 { width:100%; height:100%; float:left; border:none; background-color:#000; } 
+#boxi4 { width:100%; height:100%; float:left; border:none; background-color:#000; } 
+#boxi5 { width:100%; height:100%; float:left; border:none; background-color:#000; } 
+#boxi6 { width:100%; height:100%; float:left; border:none; background-color:#000; } 
+#boxi7 { width:100%; height:100%; float:left; border:none; background-color:#000; } 
+#boxi8 { width:100%; height:100%; float:left; border:none; background-color:#000; } 
+#boxi9 { width:100%; height:100%; float:left; border:none; background-color:#000; }
+#boxi10 { width:100%; height:100%; float:left; border:none; background-color:#000; }  
+
+#boxic1 { width:100%; height:100%; float:left; border:none; background: url(http://quatolia.com/img/cta/p1.png) no-repeat top left; } 
+#boxic2 { width:100%; height:100%; float:left; border:none; background: url(http://creattica.com/uploaded-images/0017/1496/ice_cream.jpg) no-repeat top left;  } 
+#boxic3 { width:100%; height:100%; float:left; border:none; background: url(http://creattica.com/uploaded-images/0017/1178/creatticaAram_Khachaturian_Larg.jpg) no-repeat top left; } 
+#boxic4 { width:100%; height:100%; float:left; border:none; background-color:#fff; } 
+#boxic5 { width:100%; height:100%; float:left; border:none; background-color:#fff; } 
+#boxic6 { width:100%; height:100%; float:left; border:none; background-color:#fff; } 
+
+#footer { position:absolute; bottom: 0px; left: 0px; background-color:#000; width:100%; opacity: 0.6;}
+#footer_face { font-style:normal; color:#fff; font-family:DPix_8pt; font-size:8px; text-shadow: black 1px 1px 1px; margin-top:4px; margin-left:6px; margin-bottom:6px; }
+
+#plus {
+	position:absolute;
+	top: 10px;
+	right:10px;	
+	background-color:#000;
+	opacity: 0.83;
+}
+#plus_face { font-style:normal; color:#fff; font-family:DPix_8pt; font-size:8px; text-shadow: black 1px 1px 1px; margin-top:5px; margin-left:6px; margin-bottom:7px; margin-right:5px;}
+
+@font-face { font-family: DPix_8pt; /* Имя шрифта */ src: url(fonts/Dpix_8pt.ttf); /* Путь к файлу со шрифтом */}
+/*#oval {    width: 10em; height: 10em; -webkit-border-radius: 5em; -moz-border-radius: 5em;  }*/
