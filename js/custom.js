@@ -124,30 +124,3 @@ opacity: 0.51
 });
 });
 // ---------------------------
-
-// ------------5--------------
-$(function() {
-// OPACITY OF BUTTON SET TO 50%
-$("#boxi5").css("opacity","0.61");
-		
-// ON MOUSE OVER
-$("#boxi5").hover(function () {
-										  
-// SET OPACITY TO 100%
-$(this).stop().animate({
-width: 100+'%',
-opacity: 0.0
-}, "slow");
-},
-		
-// ON MOUSE OUT
-function () {
-			
-// SET OPACITY BACK TO 50%
-$(this).stop().animate({
-width: 100+'%',
-opacity: 0.61
-}, "slow");
-});
-});
-// ---------------------------

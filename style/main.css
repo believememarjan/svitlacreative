@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /* CSS Document */
-/* Quatolia 2012 */
+/* SC 2012 */
 
 html {	
 	/*info - http://css-tricks.com/perfect-full-page-background-image/ */
@@ -21,7 +21,7 @@ a { font-style:normal; text-decoration:none; color:#fff;}
 
 #container_content { width:100%; height:100%; border:none; position:absolute; bottom: 0px; left: 0px;} 
 
-#boxc { width:20%; height:100%; float:left; border:none; } 
+#boxc { width:25%; height:100%; float:left; border:none; } 
 
 #boxi1 { width:100%; height:100%; float:left; border:none; background-color:#000; } 
 #boxi2 { width:100%; height:100%; float:left; border:none; background-color:#000; } 
@@ -34,9 +34,9 @@ a { font-style:normal; text-decoration:none; color:#fff;}
 #boxi9 { width:100%; height:100%; float:left; border:none; background-color:#000; }
 #boxi10 { width:100%; height:100%; float:left; border:none; background-color:#000; }  
 
-#boxic1 { width:100%; height:100%; float:left; border:none; background: url(http://quatolia.com/img/cta/p1.png) no-repeat top left; } 
-#boxic2 { width:100%; height:100%; float:left; border:none; background: url(http://creattica.com/uploaded-images/0017/1496/ice_cream.jpg) no-repeat top left;  } 
-#boxic3 { width:100%; height:100%; float:left; border:none; background: url(http://creattica.com/uploaded-images/0017/1178/creatticaAram_Khachaturian_Larg.jpg) no-repeat top left; } 
+#boxic1 { width:100%; height:100%; float:left; border:none; background-color:#fff; } 
+#boxic2 { width:100%; height:100%; float:left; border:none; background-color:#fff; } 
+#boxic3 { width:100%; height:100%; float:left; border:none; background-color:#fff; } 
 #boxic4 { width:100%; height:100%; float:left; border:none; background-color:#fff; } 
 #boxic5 { width:100%; height:100%; float:left; border:none; background-color:#fff; } 
 #boxic6 { width:100%; height:100%; float:left; border:none; background-color:#fff; } 
