@@ -98,17 +98,17 @@ opacity: 0.34
 });
 // ---------------------------
 
-// ------------4--------------
+// ------------5--------------
 $(function() {
 // OPACITY OF BUTTON SET TO 50%
-$("#boxi4").css("opacity","0.51");
+$("#boxi4").css("opacity","0.61");
 		
 // ON MOUSE OVER
 $("#boxi4").hover(function () {
 										  
 // SET OPACITY TO 100%
 $(this).stop().animate({
-width: 200+'%',
+width: 100+'%',
 opacity: 0.0
 }, "slow");
 },
@@ -119,7 +119,7 @@ function () {
 // SET OPACITY BACK TO 50%
 $(this).stop().animate({
 width: 100+'%',
-opacity: 0.51
+opacity: 0.61
 }, "slow");
 });
 });
