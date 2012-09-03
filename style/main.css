@@ -26,17 +26,17 @@ a {font-style:normal; text-decoration:none; color:#fff;}
 
 #boxc { width:25%; height:100%; float:left; border:none; } 
 
-#boxi1 { width:100%; height:100%; float:left; border:none; background-color:#435bb1; } 
-#boxi2 { width:100%; height:100%; float:left; border:none; background-color:#923dcd; } 
-#boxi3 { width:100%; height:100%; float:left; border:none; background-color:#bd501a; } 
-#boxi4 { width:100%; height:100%; float:left; border:none; background-color:#bd501a; } 
+#boxi1 { width:100%; height:100%; float:left; border:none; background-color:#fdec2b; } 
+#boxi2 { width:100%; height:100%; float:left; border:none; background-color:#ff001e; } 
+#boxi3 { width:100%; height:100%; float:left; border:none; background-color:#606bff; } 
+#boxi4 { width:100%; height:100%; float:left; border:none; background-color:#ff2ce9; } 
 
 #boxic1 { width:100%; height:100%; float:left; border:none; background-color:transparent; } 
 #boxic2 { width:100%; height:100%; float:left; border:none; background-color:transparent; } 
 #boxic3 { width:100%; height:100%; float:left; border:none; background-color:transparent; } 
 #boxic4 { width:100%; height:100%; float:left; border:none; background-color:transparent; }
 
-#footer { position:absolute; bottom: 0px; left: 0px; background-color:#953d6d; width:100%; opacity: 0.6;}
+#footer { position:absolute; bottom: 0px; left: 0px; background-color:#005aff; width:100%; opacity: 0.25;}
 #footer_face { font-style:normal; color:#fff; font-family:DPix_8pt; font-size:8px; text-shadow: black 1px 1px 1px; margin-top:4px; margin-left:6px; margin-bottom:6px; }
 
 #plus {

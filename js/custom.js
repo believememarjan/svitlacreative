@@ -19,7 +19,7 @@ $("#plus_face").click(function(){
 // ------------1--------------
 $(function() {
 // OPACITY OF BUTTON SET TO 50%
-$("#boxi1").css("opacity","0.47");
+$("#boxi1").css("opacity","0.3");
 //alert(msg);
 
 // ON MOUSE OVER
@@ -38,7 +38,7 @@ function () {
 // SET OPACITY BACK TO 50%
 $(this).stop().animate({
 width: 100+'%',
-opacity: 0.47
+opacity: 0.3
 }, "slow");
 });
 });
@@ -47,7 +47,7 @@ opacity: 0.47
 // ------------2--------------
 $(function() {
 // OPACITY OF BUTTON SET TO 50%
-$("#boxi2").css("opacity","0.58");
+$("#boxi2").css("opacity","0.2");
 		
 // ON MOUSE OVER
 $("#boxi2").hover(function () {
@@ -65,7 +65,7 @@ function () {
 // SET OPACITY BACK TO 50%
 $(this).stop().animate({
 width: 100+'%',
-opacity: 0.58
+opacity: 0.2
 }, "slow");
 });
 });
@@ -74,7 +74,7 @@ opacity: 0.58
 // ------------3--------------
 $(function() {
 // OPACITY OF BUTTON SET TO 50%
-$("#boxi3").css("opacity","0.34");
+$("#boxi3").css("opacity","0.25");
 		
 // ON MOUSE OVER
 $("#boxi3").hover(function () {
@@ -92,16 +92,16 @@ function () {
 // SET OPACITY BACK TO 50%
 $(this).stop().animate({
 width: 100+'%',
-opacity: 0.34
+opacity: 0.21
 }, "slow");
 });
 });
 // ---------------------------
 
-// ------------5--------------
+// ------------4--------------
 $(function() {
 // OPACITY OF BUTTON SET TO 50%
-$("#boxi4").css("opacity","0.61");
+$("#boxi4").css("opacity","0.23");
 		
 // ON MOUSE OVER
 $("#boxi4").hover(function () {
@@ -119,7 +119,7 @@ function () {
 // SET OPACITY BACK TO 50%
 $(this).stop().animate({
 width: 100+'%',
-opacity: 0.61
+opacity: 0.23
 }, "slow");
 });
 });
